@@ -74,6 +74,18 @@ Boston_Massachusetts_USA.pkl,2
 Delhi_India.pkl,0
 Turin_Italy.pkl,1
 ...
+```
+
+### Step 4: Encrypt and name your file
+
+Encrypt your CSV and submit only the encrypted file in `submissions/`.
+
+**Required naming rule (important):**
+- Use your team name in the filename: `<team_name>.csv.enc`
+- Examples: `abdksm.csv.enc`, `Muhammad_Isah.csv.enc`
+- Do **not** submit generic names such as `submission.csv.enc`
+
+This naming rule is used to display your team name correctly on the leaderboard.
 
 ---
 
